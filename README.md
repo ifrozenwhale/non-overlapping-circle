@@ -26,7 +26,8 @@
 ## 可视化
 
 - 使用`matplotlib.pyplot`进行绘图，每个圆的色彩随机取值。
-- 可以给出图片，自定义轮廓，进行圆的填充，这里暂时没实现。
+- 可以给出图片，自定义轮廓，进行圆的填充。
+    - 在边界上设置一系列圆，充当守卫，他们不会移动，但是会隔离。    
 ## 结果
 
 - 没有插入填充时候的样例。
@@ -36,6 +37,10 @@
 - 进行插入填充的样例
 
 <img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/final.png" width="75%"/>
+
+- 自定义边界轮廓
+
+<img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/final2.png" width=75%/>
 
 
 
