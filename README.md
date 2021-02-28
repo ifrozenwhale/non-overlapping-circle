@@ -38,7 +38,7 @@
 
 - 自定义边界轮廓
 
-![avatar](./img/final1.png)
+<img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/20210228183111.png" width="75%"/>
 
 
 - 没有插入填充时候的样例。
