@@ -38,7 +38,7 @@
 
 - 自定义边界轮廓
 
-![avatar](../img/final2.png)
+![avatar](../img/final1.png)
 
 
 - 没有插入填充时候的样例。
