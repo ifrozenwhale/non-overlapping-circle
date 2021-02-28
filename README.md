@@ -36,6 +36,11 @@
     - 在边界上设置一系列圆，充当守卫，他们不会移动，但是会隔离。    
 ## 结果
 
+- 自定义边界轮廓
+
+<img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/final2.png" width=75%/>
+
+
 - 没有插入填充时候的样例。
 
 <img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/25.png" width="75%"/>
@@ -43,10 +48,6 @@
 - 进行插入填充的样例
 
 <img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/final.png" width="75%"/>
-
-- 自定义边界轮廓
-
-<img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/final2.png" width=75%/>
 
 
 
